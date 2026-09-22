@@ -1,0 +1,2 @@
+# No third-party dependencies required!
+# All tools, icon generators, and tests use Python 3.8+ standard library.

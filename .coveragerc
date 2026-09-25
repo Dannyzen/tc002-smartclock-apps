@@ -1,0 +1,11 @@
+[run]
+branch = True
+include =
+    apps/birthdays.py
+    apps/configure_time_first.py
+    apps/install_birthday_scripts.py
+
+[report]
+show_missing = True
+skip_covered = False
+fail_under = 100
